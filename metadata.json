@@ -1,0 +1,6 @@
+{
+  "name": "SmartShop - Customer Shopping Behaviour & Intelligence Platform",
+  "description": "Comprehensive customer shopping behaviour analysis, predictive purchase modeling, customer segmentation, and analytics dashboard based on 3,900 consumer transaction records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
